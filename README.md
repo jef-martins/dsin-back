@@ -4,12 +4,12 @@ Back-End realizado no nodeJS.
 
 para startar o projeto é necessario seguir os passos abaixo:
 
-1- npm i
-2- criar banco com o nome db_cabelereiro (estou utilizando o mysql do xampp [mariadb pra ser mais exato]). mas pode se utilizar qlq um, já deixei as dependencias prontas, é só configurar no bd.js na pasta Model
-3- node Model/conn.js
-4- nodemon Server/server.js
+#1- npm i
+#2- criar banco com o nome db_cabelereiro (estou utilizando o mysql do xampp [mariadb pra ser mais exato]). mas pode se utilizar qlq um, já deixei as dependencias prontas, é só configurar no bd.js na pasta Model
+#3- node Model/conn.js
+#4- nodemon Server/server.js
 
-depois só testar
+depois só testar na porta 8081 do localhost (ou pode aterar no arquivo server.js na pasta Server)
 
 segue abaixo prints do postman para testes.
 
